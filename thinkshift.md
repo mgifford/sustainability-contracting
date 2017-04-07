@@ -1,5 +1,5 @@
 # Purchasing policy
-* updated May 2015 *
+*updated May 2015*
 
 Thinkshift’s guiding principles in making purchases and choosing vendors are:
 - Conserve resources
