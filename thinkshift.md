@@ -1,7 +1,5 @@
 # Purchasing policy
-updated May 2015
-415.848.9181            
-Purchasing policy
+* updated May 2015 *
 
 Thinkshift’s guiding principles in making purchases and choosing vendors are:
 - Conserve resources
@@ -14,8 +12,9 @@ our environmental purchasing policy and to conduct their operations sustainably.
 ## Vendors 
 
 Whenever possible, we work with and buy from Certified B Corps and benefit corporations, 
-and businesses that are local, sustainably operated, and owned by women or under-represented populations. 
-Our criteria for preferred vendors:
+and businesses that are local, sustainably operated, and owned by women or under-represented 
+populations. Our criteria for preferred vendors:
+
 - Certified B Corporation or benefit corporation
 - Located in the San Francisco Bay Area
 - Operate sustainably with a triple bottom line
@@ -28,6 +27,7 @@ Our criteria for preferred vendors:
 We look for durable, long-lasting products. We reuse and recycle as much as possible. We 
 avoid single-use products; when we must use them, we choose options that are compostable 
 or recyclable. We prefer office supplies and equipment that meet the following criteria:
+
 - Energy Star–rated or EPEAT-rated electronic equipment
 - Recyclable or refillable/remanufactured toner and ink cartridges
 - LED, CFL, or other energy-efficient lighting
