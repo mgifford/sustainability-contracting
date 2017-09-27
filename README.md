@@ -12,3 +12,7 @@ Providing example language for contracts and RFPs to help encourage BCorp adopti
 In the selection process for this RFP, we will give preference to companies who are Certified B Corporations (B Corp). 
 
 B Corp and other purpose driven entities will be given preference in the selection process.
+
+## Examples for Procurment & Diversity
+- http://tradecommissioner.gc.ca/businesswomen-femmesdaffaires/supplierdiversity-diversification-des-fournisseurs.aspx?lang=eng
+- 
