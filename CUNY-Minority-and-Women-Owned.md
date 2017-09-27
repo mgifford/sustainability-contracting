@@ -8,6 +8,6 @@ A. It is the University's policy to take affirmative action to ensure that New Y
 
 B. Article 15-A of the NYS Executive Law encourages all State agencies to maximize business opportunities for M/WBEs by making every effort to place orders with such firms.
 
-C. The University therefore places high priority on doing business with these firms. Empire State Development has a searchable database that is useful in locating certified businesses and can be found at the following link: http://205.232.252.35/
+C. The University therefore places high priority on doing business with these firms. 
 
 D. By Executive Order, all New York State Agencies are required to take affirmative steps to award purchases to minority-owned and women-owned businesses. The intent is to give those targeted businesses an opportunity to benefit from the massive purchasing activity of the State, on the assumptions that those targeted businesses have been historically excluded from the participation and that developing small businesses have not had an equal chance to compete. The University and the Colleges are given M/WBE goals expressed as percentages of total purchasing volume and are instructed to implement and facilitate special outreach initiatives geared toward M/WBEs. While attainment of goals is expected by the University, the University continues its program on a voluntary basis, recommending awarding contracts to M/WBEs where feasible and in the best value and our shared commitment to inclusion and equality of opportunity for all members of our vital business community. 
