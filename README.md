@@ -18,4 +18,5 @@ B Corp and other purpose driven entities will be given preference in the selecti
 
 ## Examples for Procurment & Diversity
 - http://tradecommissioner.gc.ca/businesswomen-femmesdaffaires/supplierdiversity-diversification-des-fournisseurs.aspx?lang=eng
+- https://openconcept.ca/blog/mike/drafting-procurement-policy
 
