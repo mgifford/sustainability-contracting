@@ -16,7 +16,11 @@ In the selection process for this RFP, we will give preference to companies who 
 
 B Corp and other purpose driven entities will be given preference in the selection process.
 
-## Examples for Procurment & Diversity
+## Procurment & Diversity Examples
 - http://tradecommissioner.gc.ca/businesswomen-femmesdaffaires/supplierdiversity-diversification-des-fournisseurs.aspx?lang=eng
 - https://openconcept.ca/blog/mike/drafting-procurement-policy
 
+
+## Sustainability Examples
+- https://www.cooperators.ca/en/About-Us/about-sustainability/sustainable-purchasing.aspx
+- http://nba.greensports.org/front-office/purchasing-policy/
