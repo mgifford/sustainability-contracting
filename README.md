@@ -24,3 +24,7 @@ B Corp and other purpose driven entities will be given preference in the selecti
 ## Sustainability Examples
 - https://www.cooperators.ca/en/About-Us/about-sustainability/sustainable-purchasing.aspx
 - http://nba.greensports.org/front-office/purchasing-policy/
+
+## Government Examples
+- https://www.tpsgc-pwgsc.gc.ca/app-acq/ae-gp/pae-gpp-eng.html
+- https://www.tpsgc-pwgsc.gc.ca/app-acq/ae-gp/paer-cgpp-eng.html
