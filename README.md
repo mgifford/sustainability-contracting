@@ -28,3 +28,4 @@ B Corp and other purpose driven entities will be given preference in the selecti
 ## Government Examples
 - https://www.tpsgc-pwgsc.gc.ca/app-acq/ae-gp/pae-gpp-eng.html
 - https://www.tpsgc-pwgsc.gc.ca/app-acq/ae-gp/paer-cgpp-eng.html
+- https://blog.reeveconsulting.com/resources/
