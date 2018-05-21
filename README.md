@@ -20,6 +20,10 @@ B Corp and other purpose driven entities will be given preference in the selecti
 - http://tradecommissioner.gc.ca/businesswomen-femmesdaffaires/supplierdiversity-diversification-des-fournisseurs.aspx?lang=eng
 - https://openconcept.ca/blog/mike/drafting-procurement-policy
 - https://www.toronto.ca/business-economy/doing-business-with-the-city/social-procurement-program/
+- BCorp Supply Chain Survey PDF https://bit.ly/2IQQm18
+- BCorp [Best Practice Guide: Creating Impact through Purchasing](https://b-lab.uservoice.com/knowledgebase/articles/1161454-best-practice-guide-creating-impact-through-purch)
+- [Connxus Diversity Database](https://connxus.com/supplier-diversity-solutions/buyer-services-connxus-database/)
+
 
 ## Sustainability Examples
 - https://www.cooperators.ca/en/About-Us/about-sustainability/sustainable-purchasing.aspx
