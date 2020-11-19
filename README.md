@@ -1,5 +1,7 @@
 Purpose driven procurement practices have the potential of shaping a huge section of the economy. With our current climate crises, we need more incentives to reduce the CO2 our societies are producing. I've outlined the bigger picture within this article [Innovation, Procurement and Sustainability](https://medium.com/openconcept-stories/innovation-procurement-and-sustainability-c9e8f887715b) but have this as a place for rough notes and examples.
 
+Renamed from bcorp-contracting to make it more general.
+
 # B Corp & Diversity/Sustainability Contracting
 Providing example language for contracts and RFPs to:
 - help encourage Certified B Corporations (B Corp) adoption
