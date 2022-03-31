@@ -20,8 +20,6 @@ In the selection process for this RFP, we will give preference to companies who 
 
 B Corp and other purpose driven entities will be given preference in the selection process.
 
-The best collection of sample language I've seen is from the [Chancery Lane Project's Climate clauses](https://chancerylaneproject.org/climate-clauses/).
-
 ## Procurment & Diversity Examples
 - http://tradecommissioner.gc.ca/businesswomen-femmesdaffaires/supplierdiversity-diversification-des-fournisseurs.aspx?lang=eng
 - https://openconcept.ca/blog/mike/drafting-procurement-policy
@@ -29,6 +27,7 @@ The best collection of sample language I've seen is from the [Chancery Lane Proj
 - BCorp Supply Chain Survey PDF https://bit.ly/2IQQm18
 - BCorp [Best Practice Guide: Creating Impact through Purchasing](https://b-lab.uservoice.com/knowledgebase/articles/1161454-best-practice-guide-creating-impact-through-purch)
 - [Connxus Diversity Database](https://connxus.com/supplier-diversity-solutions/buyer-services-connxus-database/)
+- The best collection of sample language I've seen is from the [Chancery Lane Project's Climate clauses](https://chancerylaneproject.org/climate-clauses/).
 
 
 ## Sustainability Examples
